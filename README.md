@@ -9,6 +9,7 @@ Welcome to the Data Visualization Project! This project aims to provide insightf
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Usage](#usage)
+4. [Screenshot](#screenshot)
 
 ## Introduction
 
