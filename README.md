@@ -39,7 +39,7 @@ Once you've set up the project, creating data visualizations is straightforward:
 
 5. **Save/Export:** Save your customized visualizations or export them for sharing and analysis.
 
-## Screenshot of the data source and dashboard
+## Screenshot
 
 ![bank weekly sales data](https://github.com/franco05hk/Bank-Projects/assets/71271948/a3660068-a741-4ae6-8285-095bb6bb7741)
 ![dashboard1](https://github.com/franco05hk/Bank-Projects/assets/71271948/527e5360-45e3-4f50-a0ba-0d4445c7297c)
