@@ -27,24 +27,24 @@ When I was working in banks, there's quite often we need to generate sales repor
 
 ## Usage
 
-Once you've set up the project, creating data visualizations is straightforward:
+1. **Monitor branch sales performance:** Understand the branch sales performance in seconds.
 
-1. **Load Data:** Import your dataset into the project.
+2. **Officer focus:** Reflection on the strengths and weaknesses per officer for assigning staff training oppotunity.
 
-2. **Choose Visualization:** Select the type of visualization that best suits your data and goals (e.g., bar chart, scatter plot, heat map).
+3. **Sales trend:** Monitor the sales trend differences when situation change. (e.g. economic downturn, how campaign helps on sales etc)
 
-3. **Customize:** Fine-tune the visualization's appearance and behavior.
-
-4. **Interact:** Explore the data interactively, apply filters, and click on elements for more details.
-
-5. **Save/Export:** Save your customized visualizations or export them for sharing and analysis.
+4. **Staff cnotribution:** Easily found the contribution effort on each officer of branch sales target on specific product.
 
 ## Screenshot
 
 ![bank weekly sales data](https://github.com/franco05hk/Bank-Projects/assets/71271948/a3660068-a741-4ae6-8285-095bb6bb7741)
-![dashboard1](https://github.com/franco05hk/Bank-Projects/assets/71271948/527e5360-45e3-4f50-a0ba-0d4445c7297c)
-![dashboard2](https://github.com/franco05hk/Bank-Projects/assets/71271948/329a273b-a223-4059-96ae-c0473b18446e)
-![dashboard3](https://github.com/franco05hk/Bank-Projects/assets/71271948/9efe9077-0b0c-4664-bc18-2d558e95de40)
+![pie](https://github.com/franco05hk/Bank-Projects/assets/71271948/4821fed4-c526-49ee-9283-dac504723425)
+![bar](https://github.com/franco05hk/Bank-Projects/assets/71271948/cfd1c10f-3cbd-4a15-80e4-38a9bb3f659d)
+![bar2](https://github.com/franco05hk/Bank-Projects/assets/71271948/b2ddff61-9043-4a17-8831-40c0f1e053a2)
+![accounts](https://github.com/franco05hk/Bank-Projects/assets/71271948/45b025c8-8ac7-4061-8efc-184fb2b1606d)
+![I I](https://github.com/franco05hk/Bank-Projects/assets/71271948/dfa9f866-7e3b-4efe-94ff-66e9c74b81d9)
+![Loans](https://github.com/franco05hk/Bank-Projects/assets/71271948/ae1c01d8-f50c-4615-897e-edd85ade6505)
+
 
 
 
