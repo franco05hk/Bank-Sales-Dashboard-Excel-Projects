@@ -25,7 +25,7 @@
 
 3. **Sales trend:** Monitor the sales trend differences when situation change. (e.g. economic downturn, how campaign helps on sales etc)
 
-4. **Staff cnotribution:** Easily found the contribution effort on each officer of branch sales target on specific product.
+4. **Staff contribution:** Easily found the contribution effort on each officer of branch sales target on specific product.
 
 ## Project Overview
 
