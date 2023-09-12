@@ -1,5 +1,12 @@
 # Bank-Projects
 
+## Table of Contents
+
+1. [Screenshot](#screenshot)
+2. [Usage](#usage)
+3. [Introduction](#introduction)
+4. [Features](#features)
+   
 ## Screenshot
 
 ![bank weekly sales data](https://github.com/franco05hk/Bank-Projects/assets/71271948/a3660068-a741-4ae6-8285-095bb6bb7741)
@@ -23,13 +30,6 @@
 ## Project Overview
 
 Welcome to the Bank Sales Data Visualization Project! This project aims to provide insightful and visually appealing representations of daily bank sales data, making it easier to understand the branch and staff performance, analyze, and draw meaningful insights from the data. I used it to help the branch manager manage branch sales, saving 2 hours of manpower per week. It can easily tell that the current situation of the branch, as detaill as officer's ability on each product, so that the manager can make actionable adjustment on sales strategies or marketing campaigns. Whether you are a data analyst, a researcher, or just curious about the information presented, this project will empower you to explore data in an engaging and informative way.
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Usage](#usage)
-4. [Screenshot](#screenshot)
 
 ## Introduction
 
