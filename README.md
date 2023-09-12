@@ -1,4 +1,4 @@
-# Bank-Projects
+# Bank-Sales-Preformance-Dashboard Excel Project
 
 ## Table of Contents
 
